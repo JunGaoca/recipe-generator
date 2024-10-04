@@ -1,0 +1,8 @@
+# .gitignore
+.env
+venv/
+env*/
+vectorstore/
+
+.DS_Store
+test.*
